@@ -14,4 +14,7 @@ La aplicación incluye módulos para:
 - Configuración del negocio y notficaciones automáticas. 
 
 ## Alumna
-Dina Ben Ayzah El Mitmari
+Dina Ben Ayzah El Mitmari. 
+
+## Curso
+2 DAM
